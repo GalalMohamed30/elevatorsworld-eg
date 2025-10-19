@@ -45,3 +45,13 @@ In the project directory, you can run:
 
 ```bash
 npm run dev
+
+
+### 🏷️ Status
+**License:** Private  
+**Project Type:** Company Website
+**Industry:** Elevators & Engineering Services
+
+---
+
+✨ _Developed with ❤️ by Galal Mohamed
