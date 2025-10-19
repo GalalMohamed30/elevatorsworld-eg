@@ -49,7 +49,6 @@ npm run dev
 ### 🏷️ Status
 **License:** Private  
 **Project Type:** Company Website
-
 **Industry:** Elevators & Engineering Services
 
 ---
