@@ -43,13 +43,13 @@ This project was bootstrapped with **Vite**.
 ### Available Scripts
 In the project directory, you can run:
 
-``bash
 npm run dev
 
 
 ### 🏷️ Status
 **License:** Private  
 **Project Type:** Company Website
+
 **Industry:** Elevators & Engineering Services
 
 ---
